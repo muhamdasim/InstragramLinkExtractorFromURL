@@ -5,7 +5,7 @@ import csv
 import re
 
 #change the filename below
-df=pd.read_csv('xyz.csv')
+df=pd.read_csv('testurls.csv')
 
 
 def getLinks(url):
